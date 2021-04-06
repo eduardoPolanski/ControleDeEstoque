@@ -1,3 +1,3 @@
 # ControleDeEstoque
 
-Estoque
+Como iniciar o projeto
